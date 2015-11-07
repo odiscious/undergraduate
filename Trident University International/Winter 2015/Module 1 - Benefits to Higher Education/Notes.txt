@@ -1,0 +1,5 @@
+bower is for deployment dependencies
+
+npm is for dev dependencies
+
+grunt does the build - moves things around, runs karma tests
